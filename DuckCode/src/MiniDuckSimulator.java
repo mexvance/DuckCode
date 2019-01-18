@@ -1,3 +1,5 @@
+//This is for the duck simulator
+
 public class MiniDuckSimulator {
 
     public static void main(String[] args) {
